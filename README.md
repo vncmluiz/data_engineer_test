@@ -4,7 +4,7 @@
 
 1 - Clonar o repositorio
 
-git clone 
+git clone https://github.com/vncmluiz/data_engineer_test.git
 
 2 - Dentro da pasta do projeto, rodar o comando
 
